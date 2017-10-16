@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+To run:
+
+1. Run npm install. 
+2. Run the API server with node server.js
+3. Run this application with npm start.
+
 Functionality implemented :
 
 1. The UI for a single bingo game is completed
